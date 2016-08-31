@@ -11,6 +11,11 @@ The algorithm is inspired from [[https://github.com/Miserlou/OpenSpritz][OpenSpr
 
 The story continues at [[https://www.gnu.org/philosophy/right-to-read.html][gnu.org]]
 
+This project has moved to https://gitlab.com/iankelling/spray, this is a
+read only mirror which will get taken down in the next year. We need to
+control our own computing, but github is not a service me or you can run
+on our own computers, and it serves proprietary javascript.
+
 ** Installation
 
 Put spray.el into a "load-path"ed directory, and load it in your init
